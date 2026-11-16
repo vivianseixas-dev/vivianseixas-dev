@@ -1,5 +1,3 @@
 ## Hi there! I am Vivian Seixas 👋
 
-- 🔭 I’m a System Analyst Student
-- 🌱 I’m currently learning Laravel, API Rest and SQL. 
-- 😄 Pronouns: She/He
+Desenvolvedora Back-end | PHP · Laravel · MySQL · APIs REST | GitLab CI/CD | Back-end com visão de UX/UI
